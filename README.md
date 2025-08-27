@@ -90,6 +90,8 @@ Acceptance criteria for a checkout feature in an apartment booking management sy
 ## Use Case Diagrams
 Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
 
+![Use Case Diagram](alx-booking-uc.png)
+
 ### Benefits of Use Case Diagram
 - Provide a clear visual representation of system functionalities.
 - Help in identifying and organizing system requirements.
